@@ -1,0 +1,9 @@
+{
+    "baseUrl": "https://api.duckduckgo.com",
+    "testFiles": "**/*.feature",
+    "integrationFolder": "cypress/integration/",
+    "requestTimeout": 5000,
+    "responseTimeout": 30000,
+    "video": false,
+    "screenshot": false
+}
