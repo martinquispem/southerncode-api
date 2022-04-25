@@ -14,4 +14,6 @@ Also, it generates a report for each test run.
 
 ## Test Runner
 
-To run the project use `npm run test`
+To run the project use:
+`npm install`
+`npm run test`
